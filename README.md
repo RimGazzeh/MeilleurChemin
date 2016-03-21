@@ -1,2 +1,2 @@
 # MeilleurChemin
-application qui determine le plus court chemin entre un émetteur et un récepteur en utilisant l'algorithme Dijkstra
+Application that determines the shortest path between a transmitter and a receiver using the Dijkstra algorithm
